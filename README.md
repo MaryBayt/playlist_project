@@ -8,7 +8,7 @@
 
 **Description**
 
-This is my first ever html/css project - made on Yandex.Practicum platform.
+This is my first ever html/css project — made on Yandex.Practicum platform.
 
 **Link to the project**
 
