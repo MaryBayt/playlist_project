@@ -4,7 +4,6 @@
 
 * HTML5
 * CSS3
-* JavaScript
 * Git
 
 **Description**
